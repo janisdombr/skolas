@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323416291303-54jklgrbni2nhol09sdmqq0ab4064s43.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323416291303-54jklgrbni2nhol09sdmqq0ab4064s43</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>323416291303-11ph9c86arhfdblnd66btg8fq6p50g0p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDZLR2NSgvpKCMBeS2VB6gUbSGWx87uAM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323416291303</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trainin.skolaslv</string>
+	<key>PROJECT_ID</key>
+	<string>skolaslv</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skolaslv.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323416291303:ios:630037f56e0bac556d2f42</string>
+</dict>
+</plist>

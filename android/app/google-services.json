@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "323416291303",
+    "project_id": "skolaslv",
+    "storage_bucket": "skolaslv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323416291303:android:259b5b63e32eb5826d2f42",
+        "android_client_info": {
+          "package_name": "com.trainin.skolaslv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323416291303-11ph9c86arhfdblnd66btg8fq6p50g0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trainin.skolaslv",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "323416291303-jb292eksq8m511tgnbn4694t8gsf42p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7n0mwqBrIs6vgmM_Lc1Tvp_IMycqcIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323416291303-jb292eksq8m511tgnbn4694t8gsf42p7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323416291303-54jklgrbni2nhol09sdmqq0ab4064s43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trainin.skolaslv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
